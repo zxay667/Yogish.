@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yogish/static/css/main.427c3a25.css",
+    "main.js": "/Yogish/static/js/main.db351d8d.js",
+    "index.html": "/Yogish/index.html",
+    "main.427c3a25.css.map": "/Yogish/static/css/main.427c3a25.css.map",
+    "main.db351d8d.js.map": "/Yogish/static/js/main.db351d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427c3a25.css",
+    "static/js/main.db351d8d.js"
+  ]
+}
